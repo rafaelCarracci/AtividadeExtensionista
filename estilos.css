@@ -309,9 +309,49 @@
   }
   .metric-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
 
-  @media(max-width: 640px) {
-    .charts-grid { grid-template-columns: 1fr; }
-    nav { padding: 0 1rem; }
-    .nav-links { display: none; }
-    section { padding: 3rem 1rem; }
-  }
+/* ── TABLET (max 1024px) ───────────────────────────────────────────── */
+@media(max-width: 1024px) {
+  .charts-grid { grid-template-columns: 1fr 1fr; }
+  .kpi-grid { grid-template-columns: repeat(3, 1fr); }
+  .hero { padding: 3.5rem 1.5rem 3rem; }
+}
+
+/* ── MOBILE (max 640px) ────────────────────────────────────────────── */
+@media(max-width: 640px) {
+  nav { padding: 0 1rem; }
+  .nav-links { display: none; }
+  .nav-brand { font-size: 0.9rem; }
+  .hero { padding: 2.5rem 1rem 2rem; }
+  .hero h1 { font-size: 1.8rem; }
+  .hero-stats { gap: 1.5rem; }
+  .hero-stat-num { font-size: 1.8rem; }
+  section { padding: 2.5rem 1rem; }
+  .section-title { font-size: 1.4rem; }
+  .kpi-grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
+  .kpi-value { font-size: 1.8rem; }
+  .charts-grid { grid-template-columns: 1fr; }
+  .chart-card.full { grid-column: 1; }
+  .chart-wrap { height: 200px; }
+  .chart-wrap.tall { height: 260px; }
+  .cidade-section { overflow-x: auto; }
+  .cidade-table { min-width: 560px; }
+  .relatos-grid { grid-template-columns: 1fr; }
+  .rec-grid { grid-template-columns: 1fr; }
+  .phishing-grid { grid-template-columns: 1fr; }
+  .team-grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
+  .team-card { padding: 1.25rem 1rem; }
+  .team-avatar { width: 52px; height: 52px; font-size: 1.2rem; }
+  .generator-wrap { padding: 1.5rem 1rem; }
+  .gen-output { font-size: 0.85rem; }
+  .toggle-btn { padding: 5px 10px; font-size: 0.75rem; }
+  .metric-btn { padding: 5px 10px; font-size: 0.75rem; }
+  #map-container { height: 320px; }
+  footer { padding: 1.5rem 1rem; font-size: 0.78rem; }
+}
+
+/* ── MUITO PEQUENO (max 380px) ─────────────────────────────────────── */
+@media(max-width: 380px) {
+  .kpi-grid { grid-template-columns: 1fr 1fr; }
+  .team-grid { grid-template-columns: 1fr 1fr; }
+  .hero h1 { font-size: 1.5rem; }
+}
