@@ -103,7 +103,7 @@ AtividadeExtencionista/
 | 👨‍💻 Gustavo Matias Silva | [@gus-ms](https://github.com/gus-ms) | [gustavomatiassilva](https://www.linkedin.com/in/gustavomatiassilva/) |
 | 👨‍💻 Lucas Faelis Carlos | [@Khaosxxx](https://github.com/Khaosxxx) | [lucas-faelis-carlos](https://www.linkedin.com/in/lucas-faelis-carlos-b03289308/)
 | 👨‍💻 Miguel da Silva Lumiatti | - | - |
-| 👨‍💻 Rafael Carracci | [@rafaelCarracci](https://github.com/rafaelCarracci) | — | [rafael-candido-carracci](https://www.linkedin.com/in/rafael-candido-carracci/)
+| 👨‍💻 Rafael Carracci | [@rafaelCarracci](https://github.com/rafaelCarracci) |[rafael-candido-carracci](https://www.linkedin.com/in/rafael-candido-carracci/)
 
 </div>
 
