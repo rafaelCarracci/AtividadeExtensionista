@@ -1,122 +1,106 @@
-# Segurança Digital 2026  
-## Atividade Extensionista — Conscientização sobre Segurança na Internet
+# 🔐 Segurança Digital 2026
+### 📚 Atividade Extensionista — FATEC Jundiaí
 
-Este repositório apresenta o projeto desenvolvido como parte de uma **Atividade Extensionista da FATEC Jundiaí**, com foco na **conscientização sobre segurança digital**, especialmente entre adultos e idosos da região de Jundiaí–SP.
-
-A proposta do projeto foi unir **pesquisa de campo, análise de dados e desenvolvimento web** para transformar informações coletadas em uma experiência visual, educativa e acessível.
+> Um projeto acadêmico com impacto social, criado para conscientizar a população sobre golpes digitais, proteção de contas e boas práticas de segurança na internet.
 
 ---
 
-## Sobre o Projeto
+## 🌐 Sobre o Projeto
 
-A segurança na internet tornou-se um tema cada vez mais relevante, principalmente diante do aumento de golpes digitais, tentativas de phishing, clonagem de contas e vazamento de dados.
+O projeto **Segurança Digital 2026** foi desenvolvido como parte de uma **Atividade Extensionista da FATEC Jundiaí**, com o objetivo de promover a conscientização sobre segurança da informação para a comunidade.
 
-Com base nisso, o grupo realizou uma pesquisa com **155 participantes de 7 cidades**, buscando compreender:
+A partir de uma pesquisa com **155 participantes de 7 cidades**, coletamos dados sobre hábitos digitais, exposição a golpes e práticas de segurança, transformando essas informações em um **dashboard interativo** e educativo.
 
-- A exposição da população a golpes digitais;
-- Hábitos relacionados à troca e à força das senhas;
-- Ocorrências de invasão de contas;
-- Experiências reais vividas pelos respondentes;
-- O nível de conscientização sobre boas práticas de segurança.
+🔗 **Temas abordados:**
 
-Os dados foram consolidados em um **site interativo**, com dashboards, gráficos, recomendações de proteção e uma ferramenta de geração de senhas fortes.
-
----
-
-## Objetivos
-
-- Promover a **educação e conscientização em segurança digital**;
-- Apresentar, de forma visual, os resultados de uma pesquisa aplicada à comunidade;
-- Evidenciar os principais riscos enfrentados pelos usuários na internet;
-- Orientar sobre práticas simples de proteção contra golpes e fraudes;
-- Desenvolver uma solução web acessível e informativa.
+- 🎣 Phishing
+- 🔑 Senhas seguras
+- 📱 Golpes via WhatsApp
+- 🛡️ Autenticação em dois fatores (2FA)
+- 🕵️‍♂️ Engenharia social
+- 📊 Visualização de dados
 
 ---
 
-## Principais Resultados da Pesquisa
+## 🎯 Objetivos
 
-A página apresenta indicadores obtidos a partir dos dados coletados, incluindo:
-
-- **155 respondentes**;
-- **7 cidades participantes**;
-- **91% dos participantes já foram expostos a golpes digitais**;
-- **52% afirmaram que nunca trocam suas senhas**.
-
-Além disso, o projeto organiza informações por cidade e apresenta dados sobre:
-
-- Quantidade de contas invadidas;
-- Frequência de troca de senhas;
-- Exposição a tentativas de golpe;
-- Qualidade percebida das senhas utilizadas.
+- Conscientizar usuários sobre os principais golpes digitais.
+- Apresentar dados reais coletados com a comunidade.
+- Demonstrar boas práticas de segurança da informação.
+- Desenvolver uma aplicação web interativa e acessível.
+- Gerar impacto social por meio da tecnologia.
 
 ---
 
-## Funcionalidades do Site
+## 📈 Resultados da Pesquisa
 
-### Dashboard de Indicadores
-Visualização dos principais dados da pesquisa em formato de cartões e gráficos interativos.
+| Indicador | Resultado |
+|--------|--------:|
+| 👥 Participantes | 155 |
+| 🏙️ Cidades | 7 |
+| ⚠️ Expostos a golpes digitais | 91% |
+| 🔄 Nunca trocam senhas | 52% |
 
-### Gráficos Estatísticos
-Utilização da biblioteca **Chart.js** para exibir dados como:
-
-- Exposição a mensagens suspeitas;
-- Ocorrência de contas invadidas;
-- Frequência de troca de senha;
-- Qualidade das senhas;
-- Distribuição de respondentes por cidade.
-
-### Dados por Cidade
-Tabela comparativa com os indicadores de segurança digital entre as cidades participantes.
-
-### Relatos dos Participantes
-Seção com experiências reais relacionadas a golpes, invasões e fraudes digitais.
-
-### Recomendações de Segurança
-Boas práticas apresentadas de forma objetiva, como:
-
-- Uso de autenticação em dois fatores;
-- Atenção a links suspeitos;
-- Atualização de sistemas e aplicativos;
-- Uso de gerenciadores de senhas;
-- Confirmação de pedidos financeiros por outro canal.
-
-### Guia sobre Phishing
-Exemplos de golpes comuns e orientações para identificação e prevenção, incluindo:
-
-- E-mails falsos de bancos;
-- Golpes via WhatsApp;
-- Lojas falsas;
-- Falsos suportes técnicos;
-- Prêmios ou sorteios fraudulentos;
-- Mensagens se passando por órgãos públicos.
-
-### Gerador de Senha Forte
-Ferramenta interativa que permite gerar senhas personalizadas, ajustando:
-
-- Comprimento da senha;
-- Letras maiúsculas;
-- Letras minúsculas;
-- Números;
-- Símbolos.
+Esses dados reforçam a importância da educação em segurança digital e da adoção de hábitos mais seguros no ambiente online.
 
 ---
 
-## Tecnologias Utilizadas
+## ✨ Funcionalidades
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Chart.js**
-- **Google Fonts**
-- **Vercel** para publicação da aplicação
+### 📊 Dashboard Interativo
+Visualização dinâmica dos principais indicadores da pesquisa.
+
+### 📉 Gráficos Estatísticos
+Gráficos desenvolvidos com **Chart.js** para facilitar a análise dos dados.
+
+### 🏙️ Dados por Cidade
+Comparativo entre as cidades participantes.
+
+### 🗣️ Relatos Reais
+Depoimentos de participantes sobre golpes e invasões de contas.
+
+### 🛡️ Dicas de Segurança
+Boas práticas para proteção de contas e dados pessoais.
+
+### 🎣 Guia de Phishing
+Exemplos práticos de golpes e como identificá-los.
+
+### 🔐 Gerador de Senhas Fortes
+Ferramenta para criar senhas seguras e personalizadas.
 
 ---
 
-## Estrutura do Repositório
+## 🛠️ Tecnologias Utilizadas
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Estrutura do Projeto
 
 ```bash
 AtividadeExtencionista/
-├── index.html      # Estrutura principal da página
-├── estilos.css     # Estilização e responsividade
-├── scripts.js      # Lógica dos gráficos, tabelas e funcionalidades
+├── index.html      # Estrutura principal da aplicação
+├── estilos.css     # Estilos e responsividade
+├── scripts.js      # Lógica dos gráficos e funcionalidades
 └── .gitattributes
+```
+---
+
+👨‍💻 Autores
+<div align="center">
+Foto	Nome	GitHub	LinkedIn
+👨‍💻	Rafael Carracci	@rafaelCarracci	Adicionar LinkedIn
+👨‍💻	Gustavo Matias Silva	@gus-ms	Adicionar LinkedIn
+</div>
+📜 Licença
+
+Este projeto foi desenvolvido para fins acadêmicos e educacionais.
