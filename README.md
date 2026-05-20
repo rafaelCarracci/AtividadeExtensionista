@@ -105,7 +105,7 @@ AtividadeExtencionista/
 | 👨‍💻 Gustavo Matias Silva | [@gus-ms](https://github.com/gus-ms) | [gustavomatiassilva](https://www.linkedin.com/in/gustavomatiassilva/) |
 
 </div>
----
 
+---
 📜 Licença
 Este projeto foi desenvolvido para fins acadêmicos e educacionais.
