@@ -97,10 +97,10 @@ AtividadeExtencionista/
 
 👨‍💻 Autores
 <div align="center">
-Foto	Nome	GitHub	LinkedIn
-👨‍💻	Rafael Carracci	@rafaelCarracci	Adicionar LinkedIn
-👨‍💻	Gustavo Matias Silva	@gus-ms	Adicionar LinkedIn
+👨‍💻	Rafael Carracci	| @rafaelCarracci | 
+👨‍💻	Gustavo Matias Silva |	@gus-ms |	https://linkedin.com/in/gustavomatiassilva/
 </div>
-📜 Licença
+---
 
+📜 Licença
 Este projeto foi desenvolvido para fins acadêmicos e educacionais.
